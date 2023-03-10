@@ -15,7 +15,7 @@ $ yarn install
 $ yarn start
 
 # production mode
-$ yarn run start:prod
+$ yarn start:prod
 ```
 
 ## Work with DataBase 
