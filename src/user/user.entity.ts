@@ -8,8 +8,8 @@ import {
   PrimaryGeneratedColumn,
 } from 'typeorm';
 import { hash } from 'bcrypt';
-import { ArticleEntity } from '@app/article/article.entity';
-import { CommentEntity } from '@app/article/comment.entity';
+import { ArticleEntity } from '@article/article.entity';
+import { CommentEntity } from '@article/comment.entity';
 
 @Entity({ name: 'users' })
 export class UserEntity {
