@@ -1,6 +1,7 @@
 ## Description
 
 Realworld backend implementation using TypeScript + NestJS
+https://github.com/gothinkster/realworld
 
 ## Installation
 
